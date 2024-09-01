@@ -118,7 +118,9 @@ a {
         width: 90%;
 
     }
-
+    .login{
+        background-color:blue;
+    }
     .opciones {
 
         flex-direction: column;
