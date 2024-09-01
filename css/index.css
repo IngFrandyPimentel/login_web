@@ -111,6 +111,7 @@ a {
     .container {
         margin: 6em auto;
         width: 80%;
+        height:90%
     }
 
     .inp-usuario,
@@ -119,8 +120,10 @@ a {
 
     }
     .login{
-        background-color:blue;
-        width: 90%;
+       
+        width: 100%;
+        height:auto;
+        
     }
     .opciones {
 
