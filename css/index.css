@@ -130,5 +130,7 @@ a {
         flex-direction: column;
         gap: 1em;
     }
+    .icon{
+        visibility: hidden;
 
 }
