@@ -124,10 +124,7 @@ a {
         height:auto;
         
     }
-    .opciones {
-        flex-direction: column;
-        gap: 1em;
-    }
+
     .icon{
         visibility: hidden;
 
