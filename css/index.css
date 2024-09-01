@@ -102,7 +102,7 @@ a {
 }
 
 /* Cuando la pantalla es menor a 900px  (tablets y teléfonos inteligentes)*/
-@media only screen and (max-width : 900px) {
+@media only screen and (max-width : 1023px) {
     body {
         background-image: url("../imagenes/fondo-movil.jpg");
         background-attachment: fixed;
@@ -120,13 +120,11 @@ a {
 
     }
     .login{
-       
         width: 100%;
         height:auto;
         
     }
     .opciones {
-
         flex-direction: column;
         gap: 1em;
     }
